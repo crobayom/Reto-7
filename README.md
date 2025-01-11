@@ -4,37 +4,3 @@
 
 
 ## En este repositorio se dejara el archivo que comenta todo el proceso necesario para cumplir con el reto 7
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
